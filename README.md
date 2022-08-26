@@ -1,4 +1,5 @@
-<h3>Hey!</h3>
+<h3><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"/>
+ Hey!</h3>
 I'm Ivan, a <b>Full-stack developer and UI/UX designer</b> based in Russia.<br>
 I'm interested in Coding, Startups, E-Commerces, Music, UI and Product Designs
 
