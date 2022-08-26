@@ -3,7 +3,7 @@ I'm Ivan, a <b>Full-stack developer and UI/UX designer</b> based in Russia.<br>
 I'm interested in Coding, Startups, E-Commerces, Music, UI and Product Designs
 
 <h4>Get in touch</h4>
-<a href="https://t.me/ibudakov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://ibudakov.ru"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://t.me/ibudakov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://ibudakov.ru" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 <h4>Skills 💻</h4>
 
