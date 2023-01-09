@@ -1,6 +1,6 @@
 <h3><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"/>
  Hey!</h3>
-I’m currently working on React development
+🔭 I am a Full-Stack developer from Russia, working worldwide 
 
 <h4>Get in touch</h4>
 <a href="https://t.me/ibudakov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://ibudakov.ru" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
